@@ -1,3 +1,4 @@
+
 let amigos = [];
 
 // Adiciona o evento de clique ao botão "Adicionar"
@@ -68,4 +69,5 @@ function sortearAmigo() {
 document.getElementById("adicionarBtn").addEventListener("click", adicionarAmigo);
 document.getElementById("sortearBtn").addEventListener("click", sortearAmigo);
 
+//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 
